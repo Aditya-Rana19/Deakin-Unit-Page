@@ -22,4 +22,15 @@ border-bottom: 1px solid #ddd;
 font-family: Arial
 }
 tr:nth-child(odd) {background-color: #f2f2f2;}
+.site-header {
+  background-color: darkcyan;  /* later change to blue for the small change */
+  text-align: right;
+  padding: 8px 12px;
+}
+
+.site-header img {
+  vertical-align: middle;
+  height: 60px;   /* optional: keeps the logo tidy */
+  width: auto;
+}
 
