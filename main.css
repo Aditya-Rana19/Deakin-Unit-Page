@@ -30,6 +30,7 @@ tr:hover { background-color: #e0f7fa; }
   color: green;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 .site-header{padding:10px 16px;}
 table{border-collapse:collapse;width:100%;}
 caption{text-align:left;font-weight:600;margin:8px 0;}
@@ -42,3 +43,9 @@ caption{text-align:left;font-weight:600;margin:8px 0;}
 /* ui: header tweak by Sheyon */
 >>>>>>> add-header
 /* ui: ensure blue header */
+=======
+.site-header img{height:60px;width:auto;display:block;}
+.site-header img{height:60px;width:auto;display:block;}
+>>>>>>> feat/header
+table{border-collapse:collapse;width:100%;}
+caption{text-align:left;font-weight:600;margin:8px 0;}
