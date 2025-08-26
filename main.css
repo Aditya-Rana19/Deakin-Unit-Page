@@ -30,3 +30,5 @@ tr:hover { background-color: #e0f7fa; }
   color: green;
 }
 .site-header{padding:10px 16px;}
+table{border-collapse:collapse;width:100%;}
+caption{text-align:left;font-weight:600;margin:8px 0;}
